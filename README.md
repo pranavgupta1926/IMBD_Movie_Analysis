@@ -6,6 +6,6 @@ Factors chosen for analysing impact on rating: Genre, Duration, Language, Direct
 
 MS-Excel is used to clean and prepare the raw data and to generate various charts.
 
-IMBD_Movie_Analysis.xlsx : This excel file comprises of multiple sheets. Shows the analysis performed using Excel including data cleaning 
-IMDB_Movie_Analysis.pdf : Read this file for a comprehensive understanding and summary of the project. 
+-- IMBD_Movie_Analysis.xlsx : This excel file comprises of multiple sheets. Shows the analysis performed using Excel including data cleaning 
+-- IMDB_Movie_Analysis.pdf : Read this file for a comprehensive understanding and summary of the project. 
 
